@@ -41,6 +41,6 @@ The Online Petrol Management System is a web-based application designed to strea
 
 
 ## Technologies Expected to be Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js / Python
-Database: MySQL / MongoDB
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js / Python
+- Database: MySQL / MongoDB
